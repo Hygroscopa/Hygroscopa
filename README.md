@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hygroscopa
 - 👀 I’m interested in many things I don't wanna talk about
-- 🌱 I’m currently learning Python, LaTeX
+- 🌱 I’m currently learning SQL, Power BI
 - 💞️ I’m looking to collaborate on ... Nothing... Yet
 - 📫 How to reach me? Just... don't
 
